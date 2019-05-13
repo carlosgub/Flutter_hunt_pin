@@ -1,0 +1,4 @@
+#Mon May 13 13:26:39 PET 2019
+base.0=/Users/gabuneitor/Documents/flutter/flutter_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
